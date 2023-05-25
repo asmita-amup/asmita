@@ -1,0 +1,21 @@
+https://GitHub.com/ BlackStormCoder/Hadoop_install
+Download file 
+Extract file
+Terminal command - chmod 777 hadoop_install.sh
+./ hadoop_install.sh
+Enter PC password
+Enter and downloading
+
+cd desktop
+list
+cd Hadoop_install-main
+.....
+cd Hadoop_install-main
+chmod 777 hadoop_install.sh
+...........
+chmod 777 hadoop_install.sh
+./hadoop_install.sh
+
+yes
+yes
+yes
